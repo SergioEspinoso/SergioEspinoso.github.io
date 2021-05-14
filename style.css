@@ -1,0 +1,50 @@
+body {
+    background-color: #90B2CB;
+}
+h1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+#descricao{
+    font-family: Georgia, serif;
+}
+#foto {
+    float: left;
+    padding: 0.5em;
+    background-color: white;
+    margin-right: 0.5em;
+}
+ul li:nth-child(odd){
+    background-color: white;
+}
+.photo-box{
+    height: 210px;
+    
+}
+.colaborativo{
+    font-size: 20px;
+}
+.empenhado{
+    font-size: 23px;
+}
+.aprendizado{
+    font-size: 26px;
+}
+.paciente{
+    font-size: 28px;
+}
+.responsavel{
+    font-size: 30px;
+}
+.bacharel{
+    font-size: 30px;
+}
+.estudante{
+    font-size: 28px;
+}
+.ht{
+    font-size: 26px;
+}
+.cs{
+    font-size: 24px;
+}
